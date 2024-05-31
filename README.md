@@ -52,4 +52,6 @@ When I'm not coding, you can find me hiking, exploring new places, enjoying a go
 
 ---
 
+![Snake animation](https://github.com/PABERTHIER/PABERTHIER/blob/output/github-contribution-grid-snake.svg)
+
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch.
