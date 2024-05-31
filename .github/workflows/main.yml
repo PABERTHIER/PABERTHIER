@@ -11,6 +11,7 @@ on:
   push:
     branches:
       - main
+      - snake-animation
 
 jobs:
   generate:
