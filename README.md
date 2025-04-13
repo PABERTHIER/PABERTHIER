@@ -5,7 +5,7 @@ Welcome to my GitHub profile !
 
 ![GitHub followers](https://img.shields.io/github/followers/PABERTHIER?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/PABERTHIER?style=social)
-[![Profile Views](https://visitcount.itsvg.in/api?id=PABERTHIER&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=PABERTHIER&color=A9378D&base=155&abbreviated=true)](https://komarev.com/sources/github-profile-views-counter)
 
 ## About Me
 
