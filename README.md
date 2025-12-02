@@ -17,11 +17,11 @@ Welcome to my GitHub profile !
   - **Frameworks**: [![.NET][dotnet-badge]][dotnet] [![Vue.js][vue-badge]][vue] [![Nuxt][nuxt-badge]][nuxt] [![Angular][angular-badge]][angular] [![React][react-badge]][react] [![Node.js][nodejs-badge]][nodejs]
   - **Tools**: [![Git][git-badge]][git] [![Rider][rider-badge]][rider] [![VS Code][vscode-badge]][vscode] [![Visual Studio][visualstudio-badge]][visualstudio] [![Docker][docker-badge]][docker]
   - **Cloud**: [![Azure][azure-badge]][azure]
-  - **Databases**: [![SQL Server][sqlserver-badge]][sqlserver]
+  - **Databases**: [![SQL Server][sqlserver-badge]][sqlserver] [![Cosmos DB][cosmosdb-badge]][cosmosdb]
   - **Testing**: [![NUnit][nunit-badge]][nunit]
   - **State Management**: [![Pinia][pinia-badge]][pinia] [![NgRx][ngrx-badge]][ngrx] [![React Query][reactquery-badge]][reactquery]
-  - **Build Tools**: [![MSBuild][msbuild-badge]][msbuild] [![Vite][vite-badge]][vite]
-- 📫 **Reach Me**: <pierreantoinebrt@gmail.com>
+  - **Build Tools**: [![MSBuild][msbuild-badge]][msbuild] [![Vite][vite-badge]][vite] [![Nx][nx-badge]][nx]
+- 📫 **Reach Me**: <pierreantoinebrt@ikmail.com>
 
 ## 🚀 Projects
 
@@ -133,6 +133,9 @@ Thank you for visiting my profile ! Feel free to check out my repositories and g
 [sqlserver-badge]: https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white
 [sqlserver]: https://www.microsoft.com/en-us/sql-server
 
+[cosmosdb-badge]: https://img.shields.io/badge/-Cosmos%20DB-0089D6?style=flat&logo=azure-cosmos-db&logoColor=white
+[cosmosdb]: https://azure.microsoft.com/en-gb/products/cosmos-db
+
 [nunit-badge]: https://img.shields.io/badge/-NUnit-2D9B4A?style=flat&logo=nunit&logoColor=white
 [nunit]: https://nunit.org/
 
@@ -150,6 +153,9 @@ Thank you for visiting my profile ! Feel free to check out my repositories and g
 
 [vite-badge]: https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white
 [vite]: https://vitejs.dev/
+
+[nx-badge]: https://img.shields.io/badge/-Nx-646CFF?style=flat&logo=nx&logoColor=white
+[nx]: https://nx.dev/
 
 [photo-manager-repo]: https://github.com/PABERTHIER/photo-manager
 [photo-manager-badge]: https://github-readme-stats.vercel.app/api/pin/?username=PABERTHIER&repo=photo-manager
